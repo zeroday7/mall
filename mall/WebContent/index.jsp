@@ -14,6 +14,7 @@
 	integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
 	crossorigin="anonymous">
 </head>
+
 <%
 	CategoryDao categoryDao = new CategoryDao();
 // 전체 카테고리 이름 리스트
